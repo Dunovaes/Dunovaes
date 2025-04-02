@@ -21,7 +21,7 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por infraestrutura de TI, auto
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub de Eduardo](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+![Estatísticas do GitHub de Dunovaes](https://github-readme-stats.vercel.app/api?username=Dunovaes&show_icons=true&theme=radical)
 
 ## 📫 Conecte-se Comigo
 
