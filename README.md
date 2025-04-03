@@ -1,4 +1,4 @@
-# Olá, eu sou Eduardo Silva Novaes 👋
+# Olá, eu sou Eduardo Novaes 👋
 
 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por infraestrutura de TI, automação e tecnologia. Aqui está um pouco sobre mim:
 
@@ -10,7 +10,6 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por infraestrutura de TI, auto
 - 🤔 Estou buscando aprofundar meu conhecimento em segurança de sistemas e escalabilidade de ambientes.
 - 💬 Pergunte-me sobre administração Linux, automação com Jenkins, ou load balance com NetScaler.
 - 📫 Como me contatar: [eduardosp2006@gmail.com](mailto:eduardosp2006@gmail.com)
-- 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Gosto de resolver problemas complexos, tomar um bom café e explorar novas ferramentas de TI.
 
 ## 🛠️ Linguagens e Ferramentas
